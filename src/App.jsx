@@ -429,16 +429,18 @@ export default function PermanentePasses() {
             The wisdom of which questions to ask, which assumptions to vet, and how to sequence them is now a Claude skill — <span style={{ fontFamily: "var(--mono)", fontSize: "0.88rem", color: "var(--ink)" }}>post-extraction-site-use</span>.
           </p>
           <a
-            href="#"
+            href="https://github.com/matteoc19/post-extraction-site-use"
+            target="_blank"
+            rel="noopener noreferrer"
             style={{
-              display: "inline-block",
-              fontFamily: "var(--mono)", fontSize: "0.62rem", letterSpacing: "0.1em", textTransform: "uppercase",
-              color: "var(--bg)", background: "var(--accent)", padding: "0.7rem 1.4rem",
-              textDecoration: "none", fontWeight: 500,
+            display: "inline-block",
+            fontFamily: "var(--mono)", fontSize: "0.62rem", letterSpacing: "0.1em", textTransform: "uppercase",
+            color: "var(--bg)", background: "var(--accent)", padding: "0.7rem 1.4rem",
+            textDecoration: "none", fontWeight: 500,
             }}
-          >
-            View the skill →
-          </a>
+       >
+       View the skill →
+</a>
         </div>
 
         {/* ── FOOTER ── */}
