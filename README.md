@@ -2,7 +2,7 @@
 
 An interactive research artifact: three passes of analysis on the post-extraction future of the Permanente Quarry, Santa Clara County, CA.
 
-**Live:** [permanente-quarry-proposal.vercel.app](#) — update once deployed
+**Live:** [permanente-quarry-proposal.vercel.app](permanente-quarry-proposal.vercel.app)
 
 ## What this is
 
